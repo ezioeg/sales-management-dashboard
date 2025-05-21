@@ -1,9 +1,7 @@
 # Sales Management Dashboard
-
 Sales Management Dashboard is a web application that allows efficient management of product sales. The application enables the creation of purchase orders, management of sellers, customers, products, offers, and inventory control.
 
 ## Características
-
 - **Purchase order management**: Create and manage purchase orders with seller, customer, and product details.
 - **Product management**: Add, edit, and delete products from the inventory.
 - **Offers and special prices**: Manage possible offers and special prices for products.
@@ -11,7 +9,6 @@ Sales Management Dashboard is a web application that allows efficient management
 - **Inventory**: Maintain control over available inventory and its status.
 
 ## Technologies Used
-
 ### Core
 - React v17.0
 - React Router v6 (beta)
@@ -54,9 +51,7 @@ To start the application in development mode, run:
 This will open the application in your default browser at http://localhost:3000.
 
 ## Contributions
-
 Contributions are welcome. If you want to improve the project, please create a fork and submit a pull request.
 
 ## Contact
-
 For questions or suggestions, you can contact me at [ezioeg@gmail.com].
