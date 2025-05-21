@@ -12,10 +12,27 @@ Sales Management Dashboard is a web application that allows efficient management
 
 ## Technologies Used
 
-- **React**
-- **Context API**
-- **Firebase**: For user authentication and data storage.
-- **Tailwind CSS**
+### Core
+- React v17.0
+- React Router v6 (beta)
+
+### State Management
+- Context API
+
+### UI/Styling
+- Tailwind CSS v2.0
+- Rodal (modals) v1.8
+- React Icons v4.1
+- React Datepicker v3.6
+- TrendMicro React SideNav v0.5
+
+### Forms & Validation
+- Formik v2.2
+- Yup v0.32
+
+### Backend as a Service
+- Firebase v7.19 (Auth, Firestore, Storage)
+- React Firebase File Uploader v2.4.3
 
 ## Setup
 
