@@ -35,24 +35,12 @@ Sales Management Dashboard is a web application that allows efficient management
 - React Firebase File Uploader v2.4.3
 
 ## Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/tu-usuario/sales-management-dashboard.git
-
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd sales-management-dashboard
-
-3. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
-
-4. Set up Firebase:
+   ```
+2. Set up Firebase:
 
   * Create a project in Firebase and obtain the credentials.
   * Create a .env file in the root of the project and add your Firebase credentials.
