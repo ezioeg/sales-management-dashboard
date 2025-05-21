@@ -16,9 +16,6 @@ Sales Management Dashboard is a web application that allows efficient management
 - React v17.0
 - React Router v6 (beta)
 
-### State Management
-- Context API
-
 ### UI/Styling
 - Tailwind CSS v2.0
 - Rodal (modals) v1.8
@@ -29,6 +26,9 @@ Sales Management Dashboard is a web application that allows efficient management
 ### Forms & Validation
 - Formik v2.2
 - Yup v0.32
+
+### State Management
+- Context API
 
 ### Backend as a Service
 - Firebase v7.19 (Auth, Firestore, Storage)
