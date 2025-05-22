@@ -10,26 +10,26 @@ Sales Management Dashboard is a web application that allows efficient management
 
 ## Technologies Used
 ### Core
-- React v17.0
-- React Router v6 (beta)
+- [React](https://reactjs.org/) `v17.0`
+- [React Router](https://reactrouter.com/en/main) `v6 (beta)`
 
 ### UI/Styling
-- Tailwind CSS v2.0
-- Rodal (modals) v1.8
-- React Icons v4.1
-- React Datepicker v3.6
-- TrendMicro React SideNav v0.5
+- [Tailwind CSS](https://tailwindcss.com/) `v2.0`
+- [Rodal (modals)](https://github.com/chenjiahan/rodal) `v1.8`
+- [React Icons](https://react-icons.github.io/react-icons/) `v4.1`
+- [React Datepicker](https://reactdatepicker.com/) `v3.6`
+- [TrendMicro React SideNav](https://github.com/TrendMicro-Frontend/react-sidenav) `v0.5`
 
 ### Forms & Validation
-- Formik v2.2
-- Yup v0.32
+- [Formik](https://formik.org/) `v2.2`
+- [Yup](https://github.com/jquense/yup) `v0.32`
 
 ### State Management
-- Context API
+- [Context API](https://reactjs.org/docs/context.html)
 
 ### Backend as a Service
-- Firebase v7.19 (Auth, Firestore, Storage)
-- React Firebase File Uploader v2.4.3
+- [Firebase](https://firebase.google.com/) `v7.19` (Auth, Firestore, Storage)
+- [React Firebase File Uploader](https://github.com/fris-fruitig/react-firebase-file-uploader) `v2.4.3`
 
 ## Setup
 1. Install dependencies:
