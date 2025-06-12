@@ -1,12 +1,12 @@
-# Sales Management Dashboard
-Sales Management Dashboard is a web application that allows efficient management of product sales. The application enables the creation of purchase orders, management of sellers, customers, products, offers, and inventory control.
+## 📊 Sales Management Dashboard  
+Web application designed for efficient management of product sales. It enables creation of purchase orders and management of sellers, customers, products, offers, and inventory control.
 
-## Características
-- **Purchase order management**: Create and manage purchase orders with seller, customer, and product details.
-- **Product management**: Add, edit, and delete products from the inventory.
-- **Offers and special prices**: Manage possible offers and special prices for products.
-- **Customer management**: View and manage customer information.
-- **Inventory**: Maintain control over available inventory and its status.
+### Features  
+- **Purchase Order Management**: Create and manage purchase orders including seller, customer, and product details.  
+- **Product Management**: Add, edit, and delete products from the inventory.  
+- **Offers and Special Prices**: Manage offers and special pricing for products.  
+- **Customer Management**: View and manage customer information.  
+- **Inventory Control**: Maintain oversight of available inventory and its status.
 
 ## Technologies Used
 ### Core
